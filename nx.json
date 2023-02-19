@@ -1,15 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "npmScope": "pow",
-  "implicitDependencies": {
-    "angular.json": "*",
-    "package.json": {
-      "dependencies": "*"
-    },
-    "tslint.json": "*",
-    "nx.json": "*",
-    "tsconfig.base.json": "*"
-  },
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
