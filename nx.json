@@ -4,7 +4,7 @@
   "implicitDependencies": {
     "angular.json": "*",
     "package.json": {
-      "devDependencies": "*"
+      "dependencies": "*"
     },
     "tslint.json": "*",
     "nx.json": "*",
